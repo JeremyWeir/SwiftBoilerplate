@@ -1,5 +1,5 @@
 # SwiftBoilerplate
-This is a basic project Xcode starter project. The app contains no functionality besides an iOS 8 app that saves a value to NSUserDefaults and then displays that value in a WatchKit App, a WatchKit Glance, and a Today Extension.
+This is a basic Xcode starter project. The app contains no functionality besides an iOS 8 app that saves a value to NSUserDefaults and then displays that value in a WatchKit App, a WatchKit Glance, and a Today Extension.
 
 It simply uses a shared framework class and NSUserDefaults with an app group.
 
