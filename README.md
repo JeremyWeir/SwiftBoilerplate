@@ -5,9 +5,11 @@ It simply uses a shared framework class and NSUserDefaults with an app group.
 
 To see the Today extension, run the simulator with the main iOS app target selected.
 
-<img src="http://jeremyweir.github.io/SwiftBoilerplate/screenshots/main.png" style="width:100px;border:1px solid black;">
+App screenshot:
+<img src="http://jeremyweir.github.io/SwiftBoilerplate/screenshots/main.png" width="200">
 
-![Today Screenshot](http://jeremyweir.github.io/SwiftBoilerplate/screenshots/today.png)
+Today screenshot
+<img src="http://jeremyweir.github.io/SwiftBoilerplate/screenshots/today.png" width="200">
 
 To see the WatchKit app and glance, you have to make sure the simulator has a watch external display enabled. To see the WatchKit App or Watchkit Glance in action, select their respective targets in the scheme selector when running the app.
 
